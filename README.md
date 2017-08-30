@@ -1,2 +1,2 @@
 # slacknotify
-some simple slack nitification scripts
+some simple slack notification scripts
